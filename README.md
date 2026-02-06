@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sunny 👋
 
-<!--
-**Sunny-jangra/Sunny-jangra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+📊 Learning Data Analytics & Python  
+🤖 Aspiring Machine Learning Engineer  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python (Pandas, NumPy)
+- SQL (SELECT, WHERE, JOIN)
+- MS Excel (Pivot Tables)
+- Power BI (Basic Dashboards)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects (Coming Soon)
+- Sales Data Analysis
+- Student Performance Analysis
+
+## 🌱 Currently Learning
+- Statistics for Data Science
+- Machine Learning Fundamentals
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/sunny-jangra
