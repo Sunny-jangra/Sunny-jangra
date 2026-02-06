@@ -20,3 +20,8 @@
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/sunny-jangra
+
+- ---
+
+⭐ This profile documents my journey in Data Analytics and Machine Learning.
+
